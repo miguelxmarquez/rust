@@ -1,6 +1,5 @@
-workspace = { members = [ "data-types","guessing-game", "variables-mutability"] }
 [package]
-name = "rust"
+name = "data-types"
 version = "0.1.0"
 edition = "2021"
 
